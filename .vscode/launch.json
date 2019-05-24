@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AppClient",
+            "request": "launch",
+            "mainClass": "aula20190521.aep2_1.AppClient",
+            "projectName": "4esoft2019",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AppServer",
+            "request": "launch",
+            "mainClass": "aula20190521.aep2_1.AppServer",
+            "projectName": "4esoft2019"
+        }
+    ]
+}
