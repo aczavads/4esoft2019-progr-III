@@ -6,11 +6,14 @@ public class App {
 		//Envio cliente01->server: Oi galera!
 		//Retorno server->client: {client01: { Oi galera! }}
 		
+		/*
 		Client c1 = new Client("client01");
 		c1.setMensagem("Olá, bom dia!");
 		c1.setQuantidadeDeMensagens(100);
 		c1.setEsperaEntreMensagensEmMilisegundos(200);
 		c1.iniciar();
+		*/
+		
 		/*
 		Client c2 = new Client("client02");
 		c2.setMensagem("Olá, bom dia!");
